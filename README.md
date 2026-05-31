@@ -7,10 +7,18 @@ See all 31 standard easing curves at a glance, sculpt your own with draggable cu
 ## Features
 
 - **Easing Playground window** (`Tools > Easing Playground`) — live preview with play/loop and a value readout.
+  <img width="281" height="452" alt="{5D6F811B-B5A4-4E0C-8A3F-F4C90D2FA81D}" src="https://github.com/user-attachments/assets/48e4643b-d8fd-48c8-950a-d88647635436" />
+  
 - **31 built-in easings** — Sine, Quad, Cubic, Quart, Quint, Expo, Circ, Back, Elastic, Bounce (In / Out / In-Out), matching easings.net.
 - **Bézier curve creator** — drag two control points to author a curve; copy it out as a `cubic-bezier(...)` string.
+  <img width="285" height="410" alt="{FE39CD9C-0636-4946-BD90-E9EA995F3FC3}" src="https://github.com/user-attachments/assets/1eb0d4da-87af-4522-87df-841b04905e25" />
+
 - **Custom AnimationCurve mode** — full keyframe and tangent control for any shape, including multi-bounce.
+  <img width="284" height="394" alt="{3D4CE3D9-15F2-49C1-9BEC-198C9CA6E9E2}" src="https://github.com/user-attachments/assets/63d42616-5c8a-4b23-b3a3-7cf070f9498d" />
+
 - **`EasingMover` component** — move any object along a chosen curve, with once / loop / ping-pong.
+  <img width="258" height="185" alt="{F32B8681-4C38-4436-A365-D4026A57F447}" src="https://github.com/user-attachments/assets/f0ef36f2-72f7-42ac-9936-23de042238ac" />
+
 - **`EasingFunction`** — a serializable curve field with a custom inspector and inline preview you can drop into your own scripts.
 - **Runtime library** — `Easing.Evaluate(...)` and `BezierEasing.Evaluate(...)`, no editor dependency, ships in builds.
 
