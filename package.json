@@ -1,0 +1,27 @@
+{
+  "name": "com.beastbeats.easing-playground",
+  "version": "1.0.0",
+  "displayName": "Easing Playground",
+  "description": "A visual easing toolkit for Unity. Preview 31 built-in easing curves, design your own with draggable cubic-bezier handles or Unity AnimationCurves, and drive any GameObject with them via a reusable EasingFunction type. Includes an editor window, a custom inspector with live preview, and a runtime library you can call from your own scripts.",
+  "unity": "2021.3",
+  "keywords": [
+    "easing",
+    "animation",
+    "tween",
+    "curve",
+    "bezier",
+    "motion",
+    "interpolation"
+  ],
+  "author": {
+    "name": "BeastBeatsGaming",
+    "url": "https://beastbeatsgaming.github.io"
+  },
+  "samples": [
+    {
+      "displayName": "Demo Scene",
+      "description": "Squares moving with library, bezier, and custom-curve easings.",
+      "path": "Samples~/DemoScene"
+    }
+  ]
+}
